@@ -12,6 +12,9 @@ Automatically create SEO tags
 
 📖 Full documentation: https://coding-to-music.github.io/sphinxcontrib-seometatwitter
 
+.. image:: https://travis-ci.com/coding-to-music/sphinxcontrib-seometatwitter.svg?branch=master
+    :target: https://travis-ci.com/coding-to-music/sphinxcontrib-seometatwitter
+
 .. image:: https://img.shields.io/appveyor/ci/coding-to-music/sphinxcontrib-seometatwitter/master.svg?style=flat-square&label=AppVeyor%20CI
     :target: https://ci.appveyor.com/project/coding-to-music/sphinxcontrib-seometatwitter
     :alt: Build Status Windows

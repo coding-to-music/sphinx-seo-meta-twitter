@@ -1,20 +1,12 @@
-dist: trusty
 language: python
 python:
+  - "3.6"
+  - "3.7"
   - "3.8"
-
-env:
-  - SPHINX_SPEC=Sphinx~=1.2.0
-  - SPHINX_SPEC=git+https://github.com/sphinx-doc/sphinx.git#egg=Sphinx-dev
-
+sudo: false
+cache: pip
 install:
-  - pip install tox
-  - pip install $SPHINX_SPEC
-  - python setup.py install
-
-before_script:
-  - git config --global user.email "connors.tom@gmail.com"
-  - git config --global user.name "coding-to-music"
-
-script:
-    - tox
+ - pip install -r docs/requirements.txt
+ - pip install pytest
+ - pip install -e .
+script: pytest
