@@ -50,7 +50,7 @@ For example::
 
 .. code:: bash
 
-    pip install sphinx-seo-meta-twitter
+    pip install sphinx-seometatwitter
 
 .. changelog-section-start
 
