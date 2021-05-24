@@ -1,5 +1,6 @@
 #-*- coding:utf-8 -*-
 
+
 import setuptools
 from sphinxcontrib import twitter as pkg
 
@@ -20,14 +21,12 @@ setuptools.setup(
     namespace_packages=['sphinxcontrib'],
     classifiers='''
 Programming Language :: Python
-Development Status :: 4 - Beta
 License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
 Programming Language :: Python :: 2
-Programming Language :: Python :: 2.6
-Programming Language :: Python :: 2.7
 Programming Language :: Python :: 3
 Programming Language :: Python :: 3.7
 Programming Language :: Python :: 3.8
 Programming Language :: Python :: 3.9
 Topic :: Software Development :: Documentation
 '''.strip().splitlines())
+
