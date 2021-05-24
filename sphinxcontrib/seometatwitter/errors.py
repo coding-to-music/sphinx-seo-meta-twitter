@@ -6,4 +6,4 @@ from sphinx import errors
 
 
 class TwitterError(errors.SphinxError):
-    category = 'Sphinxcontrib.Twitter error'
+    category = 'Sphinxcontrib.seometatwitter error'

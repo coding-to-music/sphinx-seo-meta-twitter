@@ -22,7 +22,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'sphinx-seo-meta-twitter'
+project = u'sphinx-seometatwitter'
 copyright = u'2021'
 
 # The version info for the project you're documenting, acts as replacement for

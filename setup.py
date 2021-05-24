@@ -14,8 +14,8 @@ setuptools.setup(
         ],
     author=pkg.__author__,
     license=pkg.__license__,
-    url='https://github.com/coding-to-music/sphinx-seo-meta-twitter',
-    description='SEO meta in header and embed twitter tweet in sphinx',
+    url='https://github.com/coding-to-music/sphinx-seometatwitter',
+    description='SEO meta in header and embed twitter tweet in sphinx.',
     long_description=pkg.__doc__,
     namespace_packages=['sphinxcontrib'],
     classifiers='''
