@@ -1,5 +1,5 @@
 =================================
-sphinxcontrib-seometatwitter
+sphinx-seo-meta-twitter
 =================================
 
 Embed `Twitter <https://twitter.com/>`_ comments in Sphinx documents/pages.
@@ -10,26 +10,27 @@ Automatically create SEO tags
 * Python 2.7, PyPy, 3.7, 3.8, and 3.9 supported on Linux and OS X.
 * Python 2.7, 3.7, 3.8, and 3.9 supported on Windows (both 32 and 64 bit versions of Python).
 
-📖 Full documentation: https://coding-to-music.github.io/sphinxcontrib-seometatwitter
+📖 Full documentation: https://coding-to-music.github.io/sphinx-seo-meta-twitter
 
-.. image:: https://travis-ci.com/coding-to-music/sphinxcontrib-seometatwitter.svg?branch=master
-    :target: https://travis-ci.com/coding-to-music/sphinxcontrib-seometatwitter
+.. image:: https://travis-ci.com/coding-to-music/sphinx-seo-meta-twitter.svg?branch=master
+    :target: https://travis-ci.com/coding-to-music/sphinx-seo-meta-twitter
 
-.. image:: https://img.shields.io/appveyor/ci/coding-to-music/sphinxcontrib-seometatwitter/master.svg?style=flat-square&label=AppVeyor%20CI
-    :target: https://ci.appveyor.com/project/coding-to-music/sphinxcontrib-seometatwitter
+.. image:: https://img.shields.io/appveyor/ci/coding-to-music/sphinx-seo-meta-twitter/master.svg?style=flat-square&label=AppVeyor%20CI
+    :target: https://ci.appveyor.com/project/coding-to-music/sphinx-seo-meta-twitter
     :alt: Build Status Windows
 
-.. image:: https://img.shields.io/travis/coding-to-music/sphinxcontrib-seometatwitter/master.svg?style=flat-square&label=Travis%20CI
-    :target: https://travis-ci.org/coding-to-music/sphinxcontrib-seometatwitter
+.. image:: https://img.shields.io/travis/coding-to-music/sphinx-seo-meta-twitter/master.svg?style=flat-square&label=Travis%20CI
+    :target: https://travis-ci.org/coding-to-music/sphinx-seo-meta-twitter
     :alt: Build Status
 
-.. image:: https://img.shields.io/coveralls/coding-to-music/sphinxcontrib-seometatwitter/master.svg?style=flat-square&label=Coveralls
-    :target: https://coveralls.io/github/coding-to-music/sphinxcontrib-seometatwitter
+.. image:: https://img.shields.io/coveralls/coding-to-music/sphinx-seo-meta-twitter/master.svg?style=flat-square&label=Coveralls
+    :target: https://coveralls.io/github/coding-to-music/sphinx-seo-meta-twitter
     :alt: Coverage Status
 
-.. image:: https://img.shields.io/pypi/v/sphinxcontrib-seometatwitter.svg?style=flat-square&label=Latest
-    :target: https://pypi.python.org/pypi/sphinxcontrib-seometatwitter
+.. image:: https://img.shields.io/pypi/v/sphinx-seo-meta-twitter.svg?style=flat-square&label=Latest
+    :target: https://pypi.python.org/pypi/sphinx-seo-meta-twitter
     :alt: Latest Version
+
 
 |Build Status| |PyPI version| |Downloads| |License: BSD|
 
@@ -49,7 +50,7 @@ For example::
 
 .. code:: bash
 
-    pip install sphinxcontrib-seometatwitter
+    pip install sphinx-seo-meta-twitter
 
 .. changelog-section-start
 
@@ -123,13 +124,13 @@ Originally based on the sphinx_twitter generator in the `sphinx_twitter`_ projec
 .. _Sphinx: http://sphinx-doc.org/
 .. _time format: https://docs.python.org/2/library/time.html#time.strftime
 
-.. |Build Status| image:: https://travis-ci.org/jdillard/sphinx-seometatwitter.svg?branch=master
-   :target: https://travis-ci.org/jdillard/sphinx-seometatwitter
+.. |Build Status| image:: https://travis-ci.org/coding-to-music/sphinx-seometatwitter.svg?branch=master
+   :target: https://travis-ci.org/coding-to-music/sphinx-seometatwitter
 .. |PyPI version| image:: https://img.shields.io/pypi/v/sphinx-seometatwitter.svg
    :target: https://pypi.python.org/pypi/sphinx-seometatwitter
 .. |Downloads| image:: https://pepy.tech/badge/sphinx-seometatwitter/week
     :target: https://pepy.tech/project/sphinx-seometatwitter
 .. |License: BSD| image:: https://img.shields.io/badge/License-BSD-blue.svg
-   :target: https://github.com/jdillard/sphinx-seometatwitter/blob/master/LICENSE
+   :target: https://github.com/coding-to-music/sphinx-seometatwitter/blob/master/LICENSE
 
        
