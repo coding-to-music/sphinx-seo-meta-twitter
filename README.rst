@@ -2,7 +2,10 @@
 sphinxcontrib-seo-meta-twitter
 =================================
 
-Embed `Disqus <https://disqus.com/>`_ comments in Sphinx documents/pages.
+Embed `Twitter <https://twitter.com/>`_ comments in Sphinx documents/pages.
+
+Automatically create meta info
+Automatically create SEO tags
 
 * Python 2.7, PyPy, 3.7, 3.8, and 3.9 supported on Linux and OS X.
 * Python 2.7, 3.7, 3.8, and 3.9 supported on Windows (both 32 and 64 bit versions of Python).

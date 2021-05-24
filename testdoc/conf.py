@@ -7,7 +7,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinxcontrib.twitter']
+extensions = ['sphinxcontrib.seometatwitter']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -30,9 +30,9 @@ copyright = u'2021'
 # built documents.
 #
 # The short X.Y version.
-version = '0.1.0'
+version = '0.6.0'
 # The full version, including alpha/beta/rc tags.
-release = '0.1.0'
+release = '0.6.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
